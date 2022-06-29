@@ -1,4 +1,4 @@
-name: BBFN
+name: BBFN220629
 channels:
   - pytorch
   - conda-forge
